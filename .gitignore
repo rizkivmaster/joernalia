@@ -1,0 +1,7 @@
+venv/*
+*.pyc
+*ipynb*
+.idea/*
+alternative.env
+**/*.log
+production_deploy.py
